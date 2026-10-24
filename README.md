@@ -1,9 +1,13 @@
-# MR2 Logger app: debug build
+# MR2 Logger app: debug builds
 
-`mr2.apk` is a debug build of the MR2 Logger Android app. It is an APK only: no source, no designs, no data.
+APK only: no source, no designs, no data. Install over a previous build and your logs and settings stay
+(all builds use the same signing key). Built from commit `ba53df7` of the private source repository.
+These are developer builds: they include a "Save to Downloads" action for logs that the public release will not have.
 
-Install it over a previous build and your logs and settings stay (all builds are signed with the same key).
+| File | For | SHA-256 |
+|---|---|---|
+| `mr2.apk` | phones (64-bit ARM, Android 7+) | `458534b2474902fcc6f97656dc9c2797757ef1adf3e290cd77098d967f6ec126` |
+| `mr2-unit.apk` | 32-bit ARM head units (ARMv7), Android 7+ | `fddc8be0b8d3dac34105932e1afbdbb0965d8e4dda6e5bbe40094372859e509c` |
 
-- Built from commit `ba53df7` of the private source repository.
-- SHA-256: `458534b2474902fcc6f97656dc9c2797757ef1adf3e290cd77098d967f6ec126`
-- This is a developer build: it includes a "Save to Downloads" action for logs that the public release will not have.
+The head-unit build runs the same app on Python 3.11. Live, Mark and the checks list do not use Python; the log
+analysis does, and is slow on a 32-bit unit: analyse logs on the phone.
