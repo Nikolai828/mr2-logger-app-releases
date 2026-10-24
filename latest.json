@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "build": "81c59bf",
+  "built": "2026-10-24T17:47:31Z",
+  "notes": "Live mirror, 3 Mbaud link, storage limit, live trace, in-app updates, IGT fix",
+  "apks": {
+    "arm64-v8a": {
+      "file": "mr2.apk",
+      "sha256": "644443ae5ade4592e13f3d413d75443341a998966658ccec09bb92ef9bcf304e",
+      "size": 70382516
+    },
+    "armeabi-v7a": {
+      "file": "mr2-unit.apk",
+      "sha256": "86caa62965cc62043bd1a06053674c6dc75a4f8cfa2fd3e65f988b6e8f7bfb77",
+      "size": 69982510
+    }
+  }
+}
