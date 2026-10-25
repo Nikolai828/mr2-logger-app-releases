@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "build": "1b04b79",
-  "built": "2026-10-25T15:09:05Z",
-  "notes": "Idle switch check no longer flags ordinary pedal openings; checks during the drive and after you walk away",
+  "build": "d51f69d",
+  "built": "2026-10-25T15:52:16Z",
+  "notes": "A lost connection ends the drive and the phone checks what it has; repeated findings are one row with a count",
   "apks": {
     "arm64-v8a": {
       "file": "mr2.apk",
-      "sha256": "b2371572508893fbc1cdf2386d0e09ace107e27f09729b5cde46f9d5dc0a6caa",
-      "size": 70477304
+      "sha256": "4248ace98121e90fbc3c66402c7176dde6a1980022641687562f60275764e1c5",
+      "size": 70491916
     },
     "armeabi-v7a": {
       "file": "mr2-unit.apk",
-      "sha256": "6ae82ea9c75ef591388b1ad4da4f74e486b6c10b5b6b1be7d790a8ac42add595",
-      "size": 70075886
+      "sha256": "dcd44623adf8a753eafe2935cc89bea9819d67036610c950985b65c91314174e",
+      "size": 70092650
     }
   }
 }

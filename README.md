@@ -14,11 +14,11 @@ analysis does, and is slow on a 32-bit unit: analyse logs on the phone.
 
 <!-- apks:begin (written by android/scripts/publish-apks.sh: do not edit by hand) -->
 
-Latest build `1b04b79`, built 2026-10-25T15:09:05Z. Idle switch check no longer flags ordinary pedal openings; checks during the drive and after you walk away
+Latest build `d51f69d`, built 2026-10-25T15:52:16Z. A lost connection ends the drive and the phone checks what it has; repeated findings are one row with a count
 
 | File | For | Python | Size | SHA-256 |
 |---|---|---|---|---|
-| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.5 MB | `b2371572508893fbc1cdf2386d0e09ace107e27f09729b5cde46f9d5dc0a6caa` |
-| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.1 MB | `6ae82ea9c75ef591388b1ad4da4f74e486b6c10b5b6b1be7d790a8ac42add595` |
+| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.5 MB | `4248ace98121e90fbc3c66402c7176dde6a1980022641687562f60275764e1c5` |
+| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.1 MB | `dcd44623adf8a753eafe2935cc89bea9819d67036610c950985b65c91314174e` |
 
 <!-- apks:end -->
