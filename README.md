@@ -14,11 +14,11 @@ analysis does, and is slow on a 32-bit unit: analyse logs on the phone.
 
 <!-- apks:begin (written by android/scripts/publish-apks.sh: do not edit by hand) -->
 
-Latest build `90426b4`, built 2026-10-25T08:23:15Z. Fix launch crash (storage flows initialised too late); assistant on for development
+Latest build `83fbafe`, built 2026-10-25T10:39:08Z. Checks run during the drive and when you walk away from the car; Check now and Stop copying on a paused copy
 
 | File | For | Python | Size | SHA-256 |
 |---|---|---|---|---|
-| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.5 MB | `a9cdb17c7618ee1f5db19bb23e53145fdac8ead6bdc5f7f46d80a54178c3d3c8` |
-| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.1 MB | `09012513ac66aad3a035b0172c95675dd77bb7ce01541bd29b05de018a7dc9a6` |
+| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.5 MB | `9c184bdd69942aed5ee434f4fb0ef493511b3973cff64bd50460edc66de2a546` |
+| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.1 MB | `a5b957bdc31ec6eeeb4f8de41d9765dd4e490a916ce4888754b5d56f8651c2e5` |
 
 <!-- apks:end -->
