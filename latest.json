@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "build": "715ee90",
-  "built": "2026-10-25T18:41:47Z",
-  "notes": "Download re-checks the manifest first; clock from the phone, chassis decoder, injector size entry, guided calibrations",
+  "build": "3b5ae53",
+  "built": "2026-10-25T19:50:43Z",
+  "notes": "Cylinder labels hold the injector out for 30 s with plain failure messages",
   "apks": {
     "arm64-v8a": {
       "file": "mr2.apk",
-      "sha256": "5fe4337a92d2757a3486619a5e91376fdded4335ce9b4af4dbb102be01bea1fd",
-      "size": 70586520
+      "sha256": "9ef3a18dfd952273c4000f2779cb23a97665a7aeb7aade13d1f50a4f16be3089",
+      "size": 70586536
     },
     "armeabi-v7a": {
       "file": "mr2-unit.apk",
-      "sha256": "132b4b6c74dbc74ace77be7129b4f8d9796c3be607decfdf910af5d3af503ed3",
-      "size": 70186102
+      "sha256": "d3e116b1cba1bb53f935c2353b8cedcd6c22b4475b15e49d6865501929df6e65",
+      "size": 70185870
     }
   }
 }

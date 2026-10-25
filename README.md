@@ -14,11 +14,11 @@ analysis does, and is slow on a 32-bit unit: analyse logs on the phone.
 
 <!-- apks:begin (written by android/scripts/publish-apks.sh: do not edit by hand) -->
 
-Latest build `715ee90`, built 2026-10-25T18:41:47Z. Download re-checks the manifest first; clock from the phone, chassis decoder, injector size entry, guided calibrations
+Latest build `3b5ae53`, built 2026-10-25T19:50:43Z. Cylinder labels hold the injector out for 30 s with plain failure messages
 
 | File | For | Python | Size | SHA-256 |
 |---|---|---|---|---|
-| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.6 MB | `5fe4337a92d2757a3486619a5e91376fdded4335ce9b4af4dbb102be01bea1fd` |
-| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.2 MB | `132b4b6c74dbc74ace77be7129b4f8d9796c3be607decfdf910af5d3af503ed3` |
+| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.6 MB | `9ef3a18dfd952273c4000f2779cb23a97665a7aeb7aade13d1f50a4f16be3089` |
+| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.2 MB | `d3e116b1cba1bb53f935c2353b8cedcd6c22b4475b15e49d6865501929df6e65` |
 
 <!-- apks:end -->
