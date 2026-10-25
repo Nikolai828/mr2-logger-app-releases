@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "build": "226b81d",
-  "built": "2026-10-25T18:30:48Z",
-  "notes": "Clock from the phone, chassis decoder, injector size entry, guided calibrations, launch-crash fixes",
+  "build": "715ee90",
+  "built": "2026-10-25T18:41:47Z",
+  "notes": "Download re-checks the manifest first; clock from the phone, chassis decoder, injector size entry, guided calibrations",
   "apks": {
     "arm64-v8a": {
       "file": "mr2.apk",
-      "sha256": "751e36c692cfcc1f737e60190a893bcb80c61defa0e9634967d31f8f283e29d8",
-      "size": 70585032
+      "sha256": "5fe4337a92d2757a3486619a5e91376fdded4335ce9b4af4dbb102be01bea1fd",
+      "size": 70586520
     },
     "armeabi-v7a": {
       "file": "mr2-unit.apk",
-      "sha256": "09e4119e949dd129628dbf10876ab5bd337131aaf042ec5107648f3c9d206141",
-      "size": 70185534
+      "sha256": "132b4b6c74dbc74ace77be7129b4f8d9796c3be607decfdf910af5d3af503ed3",
+      "size": 70186102
     }
   }
 }
