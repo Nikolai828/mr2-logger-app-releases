@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "build": "d51f69d",
-  "built": "2026-10-25T15:52:16Z",
-  "notes": "A lost connection ends the drive and the phone checks what it has; repeated findings are one row with a count",
+  "build": "226b81d",
+  "built": "2026-10-25T18:24:58Z",
+  "notes": "Clock from the phone, chassis decoder, injector size entry, guided calibrations, launch-crash fixes",
   "apks": {
     "arm64-v8a": {
       "file": "mr2.apk",
-      "sha256": "4248ace98121e90fbc3c66402c7176dde6a1980022641687562f60275764e1c5",
-      "size": 70491916
+      "sha256": "9f9951902e8af429004ce8c185a047ad1da7dcdef75d9912747bf81d6b008966",
+      "size": 70586528
     },
     "armeabi-v7a": {
       "file": "mr2-unit.apk",
-      "sha256": "dcd44623adf8a753eafe2935cc89bea9819d67036610c950985b65c91314174e",
-      "size": 70092650
+      "sha256": "94e2ca6c2aad21ebd72f90f4c71db867838a415eb1415268c7ec4d213b7fe5f7",
+      "size": 70184914
     }
   }
 }

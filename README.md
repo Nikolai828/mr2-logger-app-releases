@@ -14,11 +14,11 @@ analysis does, and is slow on a 32-bit unit: analyse logs on the phone.
 
 <!-- apks:begin (written by android/scripts/publish-apks.sh: do not edit by hand) -->
 
-Latest build `d51f69d`, built 2026-10-25T15:52:16Z. A lost connection ends the drive and the phone checks what it has; repeated findings are one row with a count
+Latest build `226b81d`, built 2026-10-25T18:24:58Z. Clock from the phone, chassis decoder, injector size entry, guided calibrations, launch-crash fixes
 
 | File | For | Python | Size | SHA-256 |
 |---|---|---|---|---|
-| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.5 MB | `4248ace98121e90fbc3c66402c7176dde6a1980022641687562f60275764e1c5` |
-| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.1 MB | `dcd44623adf8a753eafe2935cc89bea9819d67036610c950985b65c91314174e` |
+| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.6 MB | `9f9951902e8af429004ce8c185a047ad1da7dcdef75d9912747bf81d6b008966` |
+| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.2 MB | `94e2ca6c2aad21ebd72f90f4c71db867838a415eb1415268c7ec4d213b7fe5f7` |
 
 <!-- apks:end -->
