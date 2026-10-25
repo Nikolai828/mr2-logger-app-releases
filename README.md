@@ -14,11 +14,11 @@ analysis does, and is slow on a 32-bit unit: analyse logs on the phone.
 
 <!-- apks:begin (written by android/scripts/publish-apks.sh: do not edit by hand) -->
 
-Latest build `3b5ae53`, built 2026-10-25T19:50:43Z. Cylinder labels hold the injector out for 30 s with plain failure messages
+Latest build `7ac9549`, built 2026-10-25T20:07:04Z. A queued log download no longer blocks an app update; cylinder labels hold 30 s
 
 | File | For | Python | Size | SHA-256 |
 |---|---|---|---|---|
-| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.6 MB | `9ef3a18dfd952273c4000f2779cb23a97665a7aeb7aade13d1f50a4f16be3089` |
-| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.2 MB | `d3e116b1cba1bb53f935c2353b8cedcd6c22b4475b15e49d6865501929df6e65` |
+| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.6 MB | `17cddde53ae8b9cfa88eecaa78ce69fdba1bab90b9ff2f3297d713fc67269c22` |
+| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.2 MB | `71d884dc2575f163ac5aaea8c03091606f25e9d729982a86585140e7a9c2a906` |
 
 <!-- apks:end -->
