@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "build": "a5548ef",
-  "built": "2026-10-24T19:32:23Z",
-  "notes": "Base timing page, paint finish fix, paint catalogue checks",
+  "build": "dc36675",
+  "built": "2026-10-25T08:14:23Z",
+  "notes": "Assistant on for development, baseline caution, lamp mirror, 3 Mbaud link",
   "apks": {
     "arm64-v8a": {
       "file": "mr2.apk",
-      "sha256": "5e093ffcf5a8b2362c2237375bd8442e10c511f0f27b12995e824dfe6007d115",
-      "size": 70468664
+      "sha256": "14b8c7ffb04407ce48fe78eb3d66d6c0fd0c12790fda73f67082e4520f3b9ddd",
+      "size": 70470228
     },
     "armeabi-v7a": {
       "file": "mr2-unit.apk",
-      "sha256": "17cc10e5a88742970d5b0e3bb130f726af85bc23fb7beac2ca9322953647d48c",
-      "size": 70069734
+      "sha256": "83d659f04de34459ca5871b49d4381bbef2d4a6feb5012b6049d1fa481459604",
+      "size": 70123638
     }
   }
 }
