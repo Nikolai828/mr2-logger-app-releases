@@ -14,11 +14,11 @@ analysis does, and is slow on a 32-bit unit: analyse logs on the phone.
 
 <!-- apks:begin (written by android/scripts/publish-apks.sh: do not edit by hand) -->
 
-Latest build `661ba67`, built 2026-10-27T18:23:00Z. Dwell not judged while cranking; per-cylinder IGF count fixed
+Latest build `63bd049`, built 2026-10-27T18:49:18Z. Weak-cylinder check no longer gives false verdicts when the NE signal loses teeth
 
 | File | For | Python | Size | SHA-256 |
 |---|---|---|---|---|
-| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.6 MB | `cef815ba6d33f304734912ee9961dbf175effa27cbc0af37d661531397fae125` |
-| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.2 MB | `022bb481de39c68dd23a1b0e8a507462ca1e331c037102b7880e7f319fd63956` |
+| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.6 MB | `3ea3751822a50fb47b1eca7e9b3ea59bf4c4976a5bc2d914cc26c727ae8a7bd5` |
+| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.2 MB | `1d0d0fc082e0b2099dea0771e219a31d9a9ba3c2ba2326710bdcaa101d1ed6fe` |
 
 <!-- apks:end -->
