@@ -14,11 +14,11 @@ analysis does, and is slow on a 32-bit unit: analyse logs on the phone.
 
 <!-- apks:begin (written by android/scripts/publish-apks.sh: do not edit by hand) -->
 
-Latest build `7ac9549`, built 2026-10-25T20:07:04Z. A queued log download no longer blocks an app update; cylinder labels hold 30 s
+Latest build `661ba67`, built 2026-10-27T18:23:00Z. Dwell not judged while cranking; per-cylinder IGF count fixed
 
 | File | For | Python | Size | SHA-256 |
 |---|---|---|---|---|
-| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.6 MB | `17cddde53ae8b9cfa88eecaa78ce69fdba1bab90b9ff2f3297d713fc67269c22` |
-| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.2 MB | `71d884dc2575f163ac5aaea8c03091606f25e9d729982a86585140e7a9c2a906` |
+| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.6 MB | `cef815ba6d33f304734912ee9961dbf175effa27cbc0af37d661531397fae125` |
+| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.2 MB | `022bb481de39c68dd23a1b0e8a507462ca1e331c037102b7880e7f319fd63956` |
 
 <!-- apks:end -->

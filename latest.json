@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "build": "7ac9549",
-  "built": "2026-10-25T20:07:04Z",
-  "notes": "A queued log download no longer blocks an app update; cylinder labels hold 30 s",
+  "build": "661ba67",
+  "built": "2026-10-27T18:23:00Z",
+  "notes": "Dwell not judged while cranking; per-cylinder IGF count fixed",
   "apks": {
     "arm64-v8a": {
       "file": "mr2.apk",
-      "sha256": "17cddde53ae8b9cfa88eecaa78ce69fdba1bab90b9ff2f3297d713fc67269c22",
-      "size": 70587076
+      "sha256": "cef815ba6d33f304734912ee9961dbf175effa27cbc0af37d661531397fae125",
+      "size": 70586816
     },
     "armeabi-v7a": {
       "file": "mr2-unit.apk",
-      "sha256": "71d884dc2575f163ac5aaea8c03091606f25e9d729982a86585140e7a9c2a906",
-      "size": 70185214
+      "sha256": "022bb481de39c68dd23a1b0e8a507462ca1e331c037102b7880e7f319fd63956",
+      "size": 70188558
     }
   }
 }
