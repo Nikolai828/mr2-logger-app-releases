@@ -14,11 +14,11 @@ analysis does, and is slow on a 32-bit unit: analyse logs on the phone.
 
 <!-- apks:begin (written by android/scripts/publish-apks.sh: do not edit by hand) -->
 
-Latest build `033c8c1`, built 2026-10-28T20:07:53Z. Likely causes: ranked suspects with the numbers behind them
+Latest build `dad518a`, built 2026-10-28T20:50:33Z. Compare with the earlier drive; live idle test
 
 | File | For | Python | Size | SHA-256 |
 |---|---|---|---|---|
-| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.6 MB | `f820a3d24a8f9cee8b425f0836235865d2a0965f8dc0ce9b140e647f05984994` |
-| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.2 MB | `cce7def1374fcb94c8fd4301a5a3c6d81729ddad26b0bd1b6161c2cd945f8273` |
+| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.7 MB | `98012ebb59e405b3d7d8b5ad0eba2cb6d4a22e83f3e9eb1e79dd36fd3c3ffdaf` |
+| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.3 MB | `8750e3c4d1c7071e6760ee09478e40485398d2671b6593888a3dfa8897270135` |
 
 <!-- apks:end -->

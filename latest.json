@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "build": "033c8c1",
-  "built": "2026-10-28T20:07:53Z",
-  "notes": "Likely causes: ranked suspects with the numbers behind them",
+  "build": "dad518a",
+  "built": "2026-10-28T20:50:33Z",
+  "notes": "Compare with the earlier drive; live idle test",
   "apks": {
     "arm64-v8a": {
       "file": "mr2.apk",
-      "sha256": "f820a3d24a8f9cee8b425f0836235865d2a0965f8dc0ce9b140e647f05984994",
-      "size": 70642492
+      "sha256": "98012ebb59e405b3d7d8b5ad0eba2cb6d4a22e83f3e9eb1e79dd36fd3c3ffdaf",
+      "size": 70680808
     },
     "armeabi-v7a": {
       "file": "mr2-unit.apk",
-      "sha256": "cce7def1374fcb94c8fd4301a5a3c6d81729ddad26b0bd1b6161c2cd945f8273",
-      "size": 70243630
+      "sha256": "8750e3c4d1c7071e6760ee09478e40485398d2671b6593888a3dfa8897270135",
+      "size": 70281762
     }
   }
 }
