@@ -14,11 +14,11 @@ analysis does, and is slow on a 32-bit unit: analyse logs on the phone.
 
 <!-- apks:begin (written by android/scripts/publish-apks.sh: do not edit by hand) -->
 
-Latest build `9f9fcdf`, built 2026-10-28T11:25:48Z. Cylinder dips check; duration estimate from 2.7 MB a minute
+Latest build `b6fc763`, built 2026-10-28T19:40:15Z. Charging-at-idle check; +B ripple judged against the car's baseline
 
 | File | For | Python | Size | SHA-256 |
 |---|---|---|---|---|
-| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.6 MB | `ec9040d978cbc3f26acff6be337ebd98debf9f9acf8ca3bd7934a23dbd91a313` |
-| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.2 MB | `6d8cc2ba7a58f6c83a978b3b14d37c35a026db6070e5b7f2bc7c972b0c1034e3` |
+| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.6 MB | `cfb0498c687521aca18b12aff84ab3087b68b9a5619c409989ad245b2b46d966` |
+| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.2 MB | `84a479e9297c707aa75fae059ea8530a2dcde318a1de92278bf5d2523a6a86d2` |
 
 <!-- apks:end -->
