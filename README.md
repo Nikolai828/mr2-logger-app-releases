@@ -14,11 +14,11 @@ analysis does, and is slow on a 32-bit unit: analyse logs on the phone.
 
 <!-- apks:begin (written by android/scripts/publish-apks.sh: do not edit by hand) -->
 
-Latest build `4e2c294`, built 2026-10-28T08:50:49Z. Long drives are checked in windows and no longer stay unchecked; a clear message instead of a blank page
+Latest build `9f9fcdf`, built 2026-10-28T11:25:48Z. Cylinder dips check; duration estimate from 2.7 MB a minute
 
 | File | For | Python | Size | SHA-256 |
 |---|---|---|---|---|
-| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.6 MB | `8f34331c67af7bd5ccaf8757b7172d49e1bc9502f4fa4df51f1daab92dc525d4` |
-| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.2 MB | `5c587eeb518aa9d35099f33ca9911c6fb6068fdb1062fa19fb2b2eba31a6f0b5` |
+| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.6 MB | `ec9040d978cbc3f26acff6be337ebd98debf9f9acf8ca3bd7934a23dbd91a313` |
+| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.2 MB | `6d8cc2ba7a58f6c83a978b3b14d37c35a026db6070e5b7f2bc7c972b0c1034e3` |
 
 <!-- apks:end -->
