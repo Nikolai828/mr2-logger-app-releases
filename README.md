@@ -14,11 +14,11 @@ analysis does, and is slow on a 32-bit unit: analyse logs on the phone.
 
 <!-- apks:begin (written by android/scripts/publish-apks.sh: do not edit by hand) -->
 
-Latest build `63bd049`, built 2026-10-27T18:49:18Z. Weak-cylinder check no longer gives false verdicts when the NE signal loses teeth
+Latest build `4e2c294`, built 2026-10-28T08:50:49Z. Long drives are checked in windows and no longer stay unchecked; a clear message instead of a blank page
 
 | File | For | Python | Size | SHA-256 |
 |---|---|---|---|---|
-| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.6 MB | `3ea3751822a50fb47b1eca7e9b3ea59bf4c4976a5bc2d914cc26c727ae8a7bd5` |
-| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.2 MB | `1d0d0fc082e0b2099dea0771e219a31d9a9ba3c2ba2326710bdcaa101d1ed6fe` |
+| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.6 MB | `8f34331c67af7bd5ccaf8757b7172d49e1bc9502f4fa4df51f1daab92dc525d4` |
+| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.2 MB | `5c587eeb518aa9d35099f33ca9911c6fb6068fdb1062fa19fb2b2eba31a6f0b5` |
 
 <!-- apks:end -->

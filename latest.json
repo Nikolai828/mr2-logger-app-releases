@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "build": "63bd049",
-  "built": "2026-10-27T18:49:18Z",
-  "notes": "Weak-cylinder check no longer gives false verdicts when the NE signal loses teeth",
+  "build": "4e2c294",
+  "built": "2026-10-28T08:50:49Z",
+  "notes": "Long drives are checked in windows and no longer stay unchecked; a clear message instead of a blank page",
   "apks": {
     "arm64-v8a": {
       "file": "mr2.apk",
-      "sha256": "3ea3751822a50fb47b1eca7e9b3ea59bf4c4976a5bc2d914cc26c727ae8a7bd5",
-      "size": 70589896
+      "sha256": "8f34331c67af7bd5ccaf8757b7172d49e1bc9502f4fa4df51f1daab92dc525d4",
+      "size": 70597352
     },
     "armeabi-v7a": {
       "file": "mr2-unit.apk",
-      "sha256": "1d0d0fc082e0b2099dea0771e219a31d9a9ba3c2ba2326710bdcaa101d1ed6fe",
-      "size": 70188030
+      "sha256": "5c587eeb518aa9d35099f33ca9911c6fb6068fdb1062fa19fb2b2eba31a6f0b5",
+      "size": 70197130
     }
   }
 }
