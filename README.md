@@ -14,11 +14,11 @@ analysis does, and is slow on a 32-bit unit: analyse logs on the phone.
 
 <!-- apks:begin (written by android/scripts/publish-apks.sh: do not edit by hand) -->
 
-Latest build `dad518a`, built 2026-10-28T20:50:33Z. Compare with the earlier drive; live idle test
+Latest build `a371aee`, built 2026-10-28T21:16:16Z. Old drives are checked again so the likely causes appear
 
 | File | For | Python | Size | SHA-256 |
 |---|---|---|---|---|
-| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.7 MB | `98012ebb59e405b3d7d8b5ad0eba2cb6d4a22e83f3e9eb1e79dd36fd3c3ffdaf` |
-| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.3 MB | `8750e3c4d1c7071e6760ee09478e40485398d2671b6593888a3dfa8897270135` |
+| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.7 MB | `634225ee75afe2ab4f4c06ccd6afc981d2c9b1a00c3c2f78a802105f7ea8b285` |
+| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.3 MB | `081b527a08a3e4725baf4a65151396ee5729395e3dde8468d4552c0532917ad0` |
 
 <!-- apks:end -->

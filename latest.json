@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "build": "dad518a",
-  "built": "2026-10-28T20:50:33Z",
-  "notes": "Compare with the earlier drive; live idle test",
+  "build": "a371aee",
+  "built": "2026-10-28T21:16:16Z",
+  "notes": "Old drives are checked again so the likely causes appear",
   "apks": {
     "arm64-v8a": {
       "file": "mr2.apk",
-      "sha256": "98012ebb59e405b3d7d8b5ad0eba2cb6d4a22e83f3e9eb1e79dd36fd3c3ffdaf",
-      "size": 70680808
+      "sha256": "634225ee75afe2ab4f4c06ccd6afc981d2c9b1a00c3c2f78a802105f7ea8b285",
+      "size": 70680724
     },
     "armeabi-v7a": {
       "file": "mr2-unit.apk",
-      "sha256": "8750e3c4d1c7071e6760ee09478e40485398d2671b6593888a3dfa8897270135",
-      "size": 70281762
+      "sha256": "081b527a08a3e4725baf4a65151396ee5729395e3dde8468d4552c0532917ad0",
+      "size": 70282510
     }
   }
 }
