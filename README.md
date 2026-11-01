@@ -14,11 +14,11 @@ analysis does, and is slow on a 32-bit unit: analyse logs on the phone.
 
 <!-- apks:begin (written by android/scripts/publish-apks.sh: do not edit by hand) -->
 
-Latest build `71d0ce1`, built 2026-11-01T13:50:04Z. Case file charts; idle switch flicker check
+Latest build `0a80d64`, built 2026-11-01T17:42:15Z. Drive page: measures table, findings and analyses folded
 
 | File | For | Python | Size | SHA-256 |
 |---|---|---|---|---|
-| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.7 MB | `5992aa09c49e7aa37f8ea45a0c3e73512c3984096fafb098170c02cf406305f2` |
-| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.3 MB | `33eed7d217ecac9f650b3b399ee6db8f8158a09f6835eb0bb1176b8fe6b5f65c` |
+| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.7 MB | `92b8df41ee80fb9c9fdffc810338af3a8d692b1512b7f73e44154ad981109576` |
+| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.3 MB | `a851f4a17b800f1c31f995f28c760a34bcc0789310d02da47cbd5d759a48e402` |
 
 <!-- apks:end -->
