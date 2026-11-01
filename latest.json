@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "build": "a371aee",
-  "built": "2026-10-28T21:16:16Z",
-  "notes": "Old drives are checked again so the likely causes appear",
+  "build": "1f5c248",
+  "built": "2026-11-01T12:44:38Z",
+  "notes": "Misfire check no longer fires when IGF only moved",
   "apks": {
     "arm64-v8a": {
       "file": "mr2.apk",
-      "sha256": "634225ee75afe2ab4f4c06ccd6afc981d2c9b1a00c3c2f78a802105f7ea8b285",
-      "size": 70680724
+      "sha256": "d146cfd551f7bcf4b13a1d4d8b834e15ec989370e66cfd46ceb37421f627a0b1",
+      "size": 70683972
     },
     "armeabi-v7a": {
       "file": "mr2-unit.apk",
-      "sha256": "081b527a08a3e4725baf4a65151396ee5729395e3dde8468d4552c0532917ad0",
-      "size": 70282510
+      "sha256": "f3bc8324b30b00e2dc660501df3b11f7e73644a42e903bd2f3776c2f6d28d22d",
+      "size": 70284138
     }
   }
 }
