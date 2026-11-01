@@ -14,11 +14,11 @@ analysis does, and is slow on a 32-bit unit: analyse logs on the phone.
 
 <!-- apks:begin (written by android/scripts/publish-apks.sh: do not edit by hand) -->
 
-Latest build `1f5c248`, built 2026-11-01T12:44:38Z. Misfire check no longer fires when IGF only moved
+Latest build `6977f97`, built 2026-11-01T12:59:50Z. Long-term case file: problem, evidence over drives, next step
 
 | File | For | Python | Size | SHA-256 |
 |---|---|---|---|---|
-| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.7 MB | `d146cfd551f7bcf4b13a1d4d8b834e15ec989370e66cfd46ceb37421f627a0b1` |
-| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.3 MB | `f3bc8324b30b00e2dc660501df3b11f7e73644a42e903bd2f3776c2f6d28d22d` |
+| `mr2.apk` | 64-bit ARM phones | Python 3.13 | 70.7 MB | `c283cd47491b0c850e9e96b619ce5bdbcffab2a4e98c247ec0e5a9361b0faf49` |
+| `mr2-unit.apk` | 32-bit ARMv7 head units | Python 3.11 | 70.3 MB | `77f33d092a4ff9e60a5da5f9189a267d9d8afcf2041b0d3de0cead69da2ed2c0` |
 
 <!-- apks:end -->
