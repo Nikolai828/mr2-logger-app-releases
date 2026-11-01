@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "build": "6977f97",
-  "built": "2026-11-01T12:59:50Z",
-  "notes": "Long-term case file: problem, evidence over drives, next step",
+  "build": "821a738",
+  "built": "2026-11-01T13:16:51Z",
+  "notes": "Storage: no working copy for live checks, leftovers cleared at start",
   "apks": {
     "arm64-v8a": {
       "file": "mr2.apk",
-      "sha256": "c283cd47491b0c850e9e96b619ce5bdbcffab2a4e98c247ec0e5a9361b0faf49",
-      "size": 70713128
+      "sha256": "19b05fe6b871678b299f9f6cbfc5c4a59603c3c9ea01fbe81572e68434af3797",
+      "size": 70712652
     },
     "armeabi-v7a": {
       "file": "mr2-unit.apk",
-      "sha256": "77f33d092a4ff9e60a5da5f9189a267d9d8afcf2041b0d3de0cead69da2ed2c0",
-      "size": 70314466
+      "sha256": "d5d83ae17b74ce22a3fa36bcd27d842990b474f1da1c85a438cc96252b47c11e",
+      "size": 70314218
     }
   }
 }
